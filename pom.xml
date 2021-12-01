@@ -6,7 +6,12 @@
 
   <groupId>com.leporonitech</groupId>
   <artifactId>fraud-customer-services</artifactId>
+  <packaging>pom</packaging>
   <version>1.0-SNAPSHOT</version>
+
+  <modules>
+    <module>customer</module>
+  </modules>
 
   <name>fraud-customer-services</name>
 
